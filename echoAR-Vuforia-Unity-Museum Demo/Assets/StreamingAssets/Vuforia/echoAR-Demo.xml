@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Vase_with_Twelve_Sunflowers" size="0.230000 0.278226" />
+    <ImageTarget name="the_kiss" size="0.230000 0.275052" />
+    <ImageTarget name="starry_night" size="0.300000 0.252600" />
+    <ImageTarget name="living_still_life" size="0.170000 0.130035" />
+  </Tracking>
+</QCARConfig>
