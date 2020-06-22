@@ -1,4 +1,4 @@
-## Vuforia-echoAR-Unity- Museum Demo
+## Unity-Vuforia-echoAR-demo-Museum
 Example Unity project getting information about art using echoAR and Vuforia
 
 ## Register
