@@ -13,7 +13,7 @@ Follow the instructions on our [documentation page](https://docs.echoar.xyz/unit
 
 ## Vuforia
 1. Register to Vufoeia
-2. In [Vuforia's develpoers page](https://developer.vuforia.com/vui/develop/licenses), create a new license key by clicking *Get Development Key* and following the instructions. Click the new license and copy the license key.
+2. In [Vuforia's developers page](https://developer.vuforia.com/vui/develop/licenses), create a new license key by clicking *Get Development Key* and following the instructions. Click the new license and copy the license key.
 3. Click *Target Manager* and add a new database. The new Database should be set to "Device".
 4. Click the new database and add the targets from the [Targets](/Tragets) folder.
 5. When you are done uploading the targets, click *Download Database* and choose *Unity Editor*. After its done downloading double click the downloaded file and import it to unity.
