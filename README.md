@@ -1,14 +1,14 @@
-## Unity-Vuforia-echoAR-demo-Museum
-Example Unity project getting information about art using echoAR and Vuforia
+## Unity-Vuforia-echo3D-demo-Museum
+Example Unity project getting information about art using echo3D and Vuforia.
 
 ## Register
-Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Setup
-Follow the instructions on our [documentation page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
+Follow the instructions on our [documentation page](https://docs.echo3D.co/unity/adding-ar-capabilities) to [set your API key](https://docs.echo3D.co/unity/adding-ar-capabilities#3-set-you-api-key).
 * Clone this project and open the project in Unity, and open the *Museum* scene.
-* Open the *echoAR* folder, click the echoAR prefab, and enter your API key.
-* Upload the models from the [Models](/Models) folder to your echoAR project.
+* Open the *echo3D* folder, click the echo3D prefab, and enter your API key.
+* Upload the models from the [Models](/Models) folder to your echo3D project.
 * Add in the metadata from metadata.csv in the [Models](/Models) folder.
 
 ## Vuforia
@@ -26,13 +26,13 @@ Follow the instructions on our [documentation page](https://docs.echoar.xyz/unit
 Simply press the _Play_ button in Unity. Now you should be able to see the painting information on the painting. Clicking the information will redirect you to the wikipedia page of the painting.
 
 ## Adjusting information model
-You can easily change the information model location and size by following [adding information](https://docs.echoar.xyz/unity/using-the-sdk#build-in-keywords) to its entry on echoAR. 
+You can easily change the information model location and size by following [adding information](https://docs.echo3D.co/unity/using-the-sdk#build-in-keywords) to its entry on echo3D. 
 
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
 ## Support
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
 
 ## Screenshots
 ![Vuforia - Create DB](/Screenshots/CreateDB.jpg)
